@@ -17,19 +17,19 @@ I turn operational data into clear metrics, reliable reporting workflows and dec
 ## Featured dashboards
 
 ### Dealer NPS and call funnel
-![Dealer NPS dashboard](assets/dealer-nps-dashboard.png)
+![Dealer NPS dashboard](assets/dealer-nps-dashboard.jpg)
 
 ### Revenue, retention and batch utilization
-![Revenue and retention dashboard](assets/revenue-retention-dashboard.png)
+![Revenue and retention dashboard](assets/revenue-retention-dashboard.jpg)
 
 ### Automated student reporting
-![Automated reporting dashboard](assets/reporting-automation-dashboard.png)
+![Automated reporting dashboard](assets/reporting-automation-dashboard.jpg)
 
 ### BigQuery optimization lab
-![BigQuery optimization dashboard](assets/bigquery-optimization-dashboard.png)
+![BigQuery optimization dashboard](assets/bigquery-optimization-dashboard.jpg)
 
 ### Airflow ETL monitoring
-![Airflow pipeline dashboard](assets/airflow-etl-dashboard.png)
+![Airflow pipeline dashboard](assets/airflow-etl-dashboard.jpg)
 
 ## Repository structure
 
